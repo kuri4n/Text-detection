@@ -3,7 +3,7 @@ import easyocr
 import matplotlib.pyplot as plt
 from skimage.color.rgb_colors import green
 
-image_path = 'C:\\Users\\joelk\\PycharmProjects\\PythonProject4\\data\\test2.png'
+image_path = 'insert your image location'
 
 img = cv2.imread(image_path)
 
